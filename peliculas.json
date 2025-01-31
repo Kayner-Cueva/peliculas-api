@@ -2,7 +2,8 @@
   "peliculas": [
     {
       "titulo": "Sonic 3: La Película",
-      "enlace": "https://streamtape.to/get_video?id=XjWpL6epYQHg27&expires=1738352851&ip=FRuODxxJSxSNFt&token=g-ON4VQGft3G&stream=1"
+      "enlace": "https://streamtape.to/get_video?id=XjWpL6epYQHg27&expires=1738352851&ip=FRuODxxJSxSNFt&token=g-ON4VQGft3G&stream=1",
+      "img": "https://image.tmdb.org/t/p/w342/3aDWCRXLYOCuxjrjiPfLd79tcI6.jpg"
     }
   ]
 }
