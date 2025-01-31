@@ -1,9 +1,14 @@
 {
-  "peliculas": [
-    {
-      "titulo": "Sonic 3: La Película",
-      "enlace": "https://streamtape.to/get_video?id=XjWpL6epYQHg27&expires=1738352851&ip=FRuODxxJSxSNFt&token=g-ON4VQGft3G&stream=1",
-      "img": "https://image.tmdb.org/t/p/w342/3aDWCRXLYOCuxjrjiPfLd79tcI6.jpg"
-    }
-  ]
-}
+    "name": "Mi Servidor de Google Drive",
+    "icon": "https://mi-servidor.com/icono.png",
+    "background": "https://mi-servidor.com/fondo.jpg",
+    "version": 1,
+    "extensions": [
+      {
+        "name": "Google Drive Movies",
+        "apk": "http://192.168.100.9:8080/",
+        "icon": "https://mi-servidor.com/icono-extension.png",
+        "description": "Repositorio de películas y series en Google Drive"
+      }
+    ]
+  }
