@@ -1,14 +1,9 @@
 {
-    "name": "Mi Servidor de Google Drive",
-    "icon": "https://mi-servidor.com/icono.png",
-    "background": "https://mi-servidor.com/fondo.jpg",
-    "version": 1,
-    "extensions": [
+    "peliculas": [
       {
-        "name": "Google Drive Movies",
-        "apk": "http://192.168.100.9:8080/",
-        "icon": "https://mi-servidor.com/icono-extension.png",
-        "description": "Repositorio de películas y series en Google Drive"
-      }
+        "titulo": "Sonic 3: La Película",
+        "enlace": "",
+        "img": "https://media.themoviedb.org/t/p/w220_and_h330_face/d8Ryb8AunYAuycVKDp5HpdWPKgC.jpg"
+    }
     ]
   }
